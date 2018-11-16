@@ -2,7 +2,7 @@ regExp ~ Java Regular Expression Evaluator
 =================================================
 
 ## Introduction
-regExp is regular expression evaluator for Java that checks a string's acceptance under certain different regular expressions.
+regExp is a sample regular expression evaluator for Java that checks a string's acceptance under certain different regular expressions.
 
 ## Details about the program
  The program takes a string input from user and checks it's acceptance under various regular expressions.
