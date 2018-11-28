@@ -143,7 +143,7 @@ public class regExp{
   public static int charClass(String s){
     flag=false;
     for(int i=0;i<s.length();i++){
-      //Comparing as per ASCII values: a=97 ~ m=109
+      //Comparing on the basis ASCII values: a=97 ~ m=109
       if(s.charAt(i)<'a'||s.charAt(i)>'m'){
         return 0;
       }
